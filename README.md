@@ -157,7 +157,7 @@ I'll be adding a list of all Pull Requests made in the contribution section.
 
 
 
-## 🚀 Contributions
+## 🚀 Contributions ( During Coding Period )
 
 ### Pull requests
 
@@ -170,8 +170,8 @@ I'll be adding a list of all Pull Requests made in the contribution section.
 | [#591](https://github.com/HTTP-APIs/hydrus/pull/591)                                                                                    | Added functional tests for PUT/DELETE multiple class objects             | Merged ✅ |
 | [#593](https://github.com/HTTP-APIs/hydrus/pull/593)                                                                                    | Added foreign key relationship between a Collection and managed Class                   | Merged ✅ |
 | [#594](https://github.com/HTTP-APIs/hydrus/pull/594)                                                                                    | Added support for datatype for columns in database tablesn | Merged ✅ |
-| [#597](https://github.com/HTTP-APIs/hydrus/pull/597)                                                                                    | workflow using GitHub Actions to publish release on PyPi
-| [#599](https://github.com/HTTP-APIs/hydrus/pull/599)                                                                                    | Added support for datetime column in datebase
+| [#597](https://github.com/HTTP-APIs/hydrus/pull/597)                                                                                    | workflow using GitHub Actions to publish release on PyPi   | Merged ✅ |
+| [#599](https://github.com/HTTP-APIs/hydrus/pull/599)                                                                                    | Added support for datetime column in datebase        | Merged ✅ |
 | [#601](https://github.com/HTTP-APIs/hydrus/pull/601)                                                                                    | Changes in tests in hydrus : removed regex             | Merged ✅ |
 | [#603](https://github.com/HTTP-APIs/hydrus/pull/603)                                                                                    | Fix get_host_domain function for deployment             | Merged ✅ |
 | [#81](https://github.com/HTTP-APIs/hydra-python-core/pull/81)                                                                                    | Changed resource URI format in hydra-python-core             | **Open** |
@@ -182,7 +182,24 @@ I'll be adding a list of all Pull Requests made in the contribution section.
 | [#26](https://github.com/HTTP-APIs/creditrisk-poc/pull/26)                                                                                    | remove apidoc path environment variable from docker compose             | Merged ✅ |
 
 
+## Acknowledgements
+
+I would like to thank my mentors for their guidance and suppport through the project and GSoC journey.
+I thoroughly believe it had a positive impact on my style of writing codes and tests. I am highly enthusiastic to be an active contributor and member of this organization even after completion of my project and will try to give my very best to keep this community active and healthy.
+
+- [**Lorenzo Moriondo**](https://github.com/Mec-iS)
+- [**Phillipos Papadopoulas**](https://github.com/open-risk)
+- [**Chris Andrew**](https://github.com/chrizandr)
+- [**Priyanshu Nayan**](https://github.com/priyanshunayan)
+- [**Samesh Lakhotia**](https://github.com/sameshl)
 
 
+I would also like to thank my GSoC colleague [**Purvansh Singh**](https://github.com/Purvanshsingh) for collaboration and discussions during the program.
 
-https://github.com/HTTP-APIs/hydra-python-core/pull/91
+## 🔗 Contact
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farazkhanfk7)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farazkhanfk7/)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://batcypher.medium.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farazkhan138@gmail.com)
+
