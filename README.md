@@ -165,20 +165,21 @@ I'll be adding a list of all Pull Requests made in the contribution section.
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------- |
 | [#554](https://github.com/HTTP-APIs/hydrus/pull/554)                                                                                    | Added new endpoint to Get/Delete member of a collection.             | Merged ✅ |
 | [#578](https://github.com/HTTP-APIs/hydrus/pull/578)                                                                                    | Update docs and fixed fragments test.              | Merged ✅ |
-| [#580](https://github.com/HTTP-APIs/hydrus/pull/580)                                                                                    | [Add] props description, descriptions to the component.  | Merged ✅ |
-| [#590](https://github.com/HTTP-APIs/hydrus/pull/590)                                                                                    | [Docs] Added demos and snack for the documentation       | Merged ✅ |
-| [#591](https://github.com/HTTP-APIs/hydrus/pull/591)                                                                                    | [Add] Docgen auto generation of docs scripts             | Merged ✅ |
-| [#593](https://github.com/HTTP-APIs/hydrus/pull/593)                                                                                    | [Docs] Added generate-markdown scripts                   | Merged ✅ |
-| [#594](https://github.com/HTTP-APIs/hydrus/pull/594)                                                                                  | [Fix] Issues related to auto-generation of documentation | Merged ✅ |
-| [#597](https://github.com/HTTP-APIs/hydrus/pull/597)                                                                                    | [Fix, Improve] Doc-gen issues and automation             | Merged ✅ |
-| [#599](https://github.com/HTTP-APIs/hydrus/pull/599)                                                                                    | [Fix, Improve] Doc-gen issues and automation             | Merged ✅ |
-| [#601](https://github.com/HTTP-APIs/hydrus/pull/601)                                                                                    | [Fix, Improve] Doc-gen issues and automation             | Merged ✅ |
-| [#603](https://github.com/HTTP-APIs/hydrus/pull/603)                                                                                    | [Fix, Improve] Doc-gen issues and automation             | Merged ✅ |
-| [#81](https://github.com/HTTP-APIs/hydra-python-core/pull/81)                                                                                    | [Fix, Improve] Doc-gen issues and automation             | Merged ✅ |
-| [#84](https://github.com/HTTP-APIs/hydra-python-core/pull/84)                                                                                    | [Fix, Improve] Doc-gen issues and automation             | Merged ✅ |
-| [#91](https://github.com/HTTP-APIs/hydra-python-core/pull/91)                                                                                    | [Fix, Improve] Doc-gen issues and automation             | **Open** |
-| [#25](https://github.com/HTTP-APIs/creditrisk-poc/pull/25)                                                                                    | [Fix, Improve] Doc-gen issues and automation             | Merged ✅ |
-| [#26](https://github.com/HTTP-APIs/creditrisk-poc/pull/26)                                                                                    | [Fix, Improve] Doc-gen issues and automation             | Merged ✅ |
+| [#580](https://github.com/HTTP-APIs/hydrus/pull/580)                                                                                    | Added endpoint to delete multiple members from a Collection  | Merged ✅ |
+| [#590](https://github.com/HTTP-APIs/hydrus/pull/590)                                                                                    | Changed endpoint format for GET,PUT, DELETE for multiple objects of Class and Collections       | Merged ✅ |
+| [#591](https://github.com/HTTP-APIs/hydrus/pull/591)                                                                                    | Added functional tests for PUT/DELETE multiple class objects             | Merged ✅ |
+| [#593](https://github.com/HTTP-APIs/hydrus/pull/593)                                                                                    | Added foreign key relationship between a Collection and managed Class                   | Merged ✅ |
+| [#594](https://github.com/HTTP-APIs/hydrus/pull/594)                                                                                    | Added support for datatype for columns in database tablesn | Merged ✅ |
+| [#597](https://github.com/HTTP-APIs/hydrus/pull/597)                                                                                    | workflow using GitHub Actions to publish release on PyPi
+| [#599](https://github.com/HTTP-APIs/hydrus/pull/599)                                                                                    | Added support for datetime column in datebase
+| [#601](https://github.com/HTTP-APIs/hydrus/pull/601)                                                                                    | Changes in tests in hydrus : removed regex             | Merged ✅ |
+| [#603](https://github.com/HTTP-APIs/hydrus/pull/603)                                                                                    | Fix get_host_domain function for deployment             | Merged ✅ |
+| [#81](https://github.com/HTTP-APIs/hydra-python-core/pull/81)                                                                                    | Changed resource URI format in hydra-python-core             | **Open** |
+| [#84](https://github.com/HTTP-APIs/hydra-python-core/pull/84)                                                                                    | Modified doc_maker and updated sample docs             | Merged ✅ |
+| [#91](https://github.com/HTTP-APIs/hydra-python-core/pull/91)                                                                                    | Added support for datatype(range) in supported properties             | Merged ✅ |
+| [#93](https://github.com/HTTP-APIs/hydra-python-core/pull/93)                                                                                    | Added tests in hydra python core             | **Open** |
+| [#25](https://github.com/HTTP-APIs/creditrisk-poc/pull/25)                                                                                    | Dockerize creditrisk_pocon             | Merged ✅ |
+| [#26](https://github.com/HTTP-APIs/creditrisk-poc/pull/26)                                                                                    | remove apidoc path environment variable from docker compose             | Merged ✅ |
 
 
 
